@@ -1,0 +1,51 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 :root\{\
+\'a0--gold:#d8b15c;\
+\'a0--dark:#1e0f08;\
+\'a0--light:#f5e6c8;\
+\}\
+\
+body\{\
+\'a0margin:0;\
+\'a0font-family:Arial,sans-serif;\
+\'a0background:var(--dark);\
+\'a0color:var(--light);\
+\}\
+\
+.hero\{\
+\'a0max-width:1200px;\
+\'a0margin:auto;\
+\'a0padding:40px;\
+\'a0text-align:center;\
+\}\
+\
+.logo\{\
+\'a0width:300px;\
+\'a0max-width:90%;\
+\}\
+\
+.language-grid\{\
+\'a0display:flex;\
+\'a0justify-content:center;\
+\'a0gap:20px;\
+\'a0flex-wrap:wrap;\
+\'a0margin-top:40px;\
+\}\
+\
+.lang-card\{\
+\'a0background:var(--gold);\
+\'a0color:black;\
+\'a0padding:20px 40px;\
+\'a0border-radius:12px;\
+\'a0text-decoration:none;\
+\'a0font-weight:bold;\
+\}\
+}
